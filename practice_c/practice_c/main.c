@@ -1,15 +1,15 @@
 //
-//  main.cpp
-//  Practice
+//  main.c
+//  practice_c
 //
 //  Created by Parthiv Prajapati on 10/19/19.
 //  Copyright © 2019 Parthiv Prajapati. All rights reserved.
 //
 
-#include <iostream>
+#include <stdio.h>
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    std::cout << "Hello, World!\n";
+    printf("Hello, World!\n");
     return 0;
 }
