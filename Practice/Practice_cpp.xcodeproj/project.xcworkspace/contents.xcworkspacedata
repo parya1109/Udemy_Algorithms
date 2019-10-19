@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Practice.xcodeproj">
+      location = "self:/Users/parthiv/Desktop/__Study/Udemy_Algorithms/Practice/Practice_cpp.xcodeproj">
    </FileRef>
 </Workspace>
